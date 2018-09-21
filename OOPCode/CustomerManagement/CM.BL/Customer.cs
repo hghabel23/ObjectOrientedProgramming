@@ -25,6 +25,10 @@ namespace CM.BL
 
         public int CustomerID { get; private set; }
 
+        //we use this property for now and later
+        // we use inheritance to define the customer type.
+        public int CustomerType { get; set; } 
+
         public string FirstName { get; set; }
 
         public string LastName { get; set; }

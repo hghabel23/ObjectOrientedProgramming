@@ -30,8 +30,9 @@ Object Relationships:
 from another class. For example, each Order has a Customer, hasa Order Item and has an Address. 
 	- Aggregation (type of Composition): For example the Order has a Customer, but the Customer 
 	exist by its own. But on the other side, the OrderItem does not exist without Order object.
-*inheritance (is a):  a business type of customer is a Customer. a residential type of customer
-is a Customer.
+*inheritance (is a):  a business type of customer is a Customer and includes all the behaviour and
+properties of the Customer class. a residential type of customer is a Customer. 
+In C# we can inherit from only one class. We cannot inherit from multiple classes.
 
 Constructor Chaining:
 When we call the parameterized constructor inside the default constructor.
