@@ -1,0 +1,47 @@
+public static int CustomerCount {get; set;}
+
+when using static type, we cannot get the property by using the instance of the class. 
+We need to get the value by calling the actual class.
+
+exp:
+	Customer customer = new Customer();  --> customet is instance of Customer class.
+	we cannot get customer.CustomerCount += 1; xxx
+	But we can do like this by calling actual class.
+	Customer.CustomerCount += 1;  This means that this property is not relates to the instances
+	of the class. On the other side it relates to the actual class.
+
+	
+*** Some Terms ***
+
+Coupling: Which classes are dependent on each other. The fewer dependencies between classes, the 
+essier to handle the code. For example, if we have 5 classes that are using DataAccess layer. So, 
+each of these classes are coupled with DataAccess layer. We can reduce this dependencies by creating
+a class to get connects to DataAccess.
+
+Cohesion: Is the measure that how related everything in the Class is to the purpose of the class.
+If the properties of the class are not really related to that class, they need to moved to another 
+class.
+
+THEREFORE, we want Low Coupling and High Cohesion for better maintainability and test.
+
+Object Relationships:
+*Collaboration (uses a): one class uses another class.
+*Composition (has a): an object has another object. One object from one class is composed of object
+from another class. For example, each Order has a Customer, hasa Order Item and has an Address. 
+	- Aggregation (type of Composition): For example the Order has a Customer, but the Customer 
+	exist by its own. But on the other side, the OrderItem does not exist without Order object.
+*inheritance (is a):  a business type of customer is a Customer. a residential type of customer
+is a Customer.
+
+Constructor Chaining:
+When we call the parameterized constructor inside the default constructor.
+public Customer	
+		:this(0)  // we use this(0) to create a defalt Customer instance with id=0 and empty List.
+{
+}
+
+public Customer(int customerID)
+{
+	this.CustomreId = customerID;
+	AddressList = new List<Address>();  // create an instance of the List<T> to avoid null exception
+}
