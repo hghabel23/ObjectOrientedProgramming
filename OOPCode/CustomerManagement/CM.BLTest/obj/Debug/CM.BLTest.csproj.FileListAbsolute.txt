@@ -1,0 +1,15 @@
+C:\Users\hghabel\Documents\NextGen Files\My Tasks\OOPCodingPractice\OOPCode\CustomerManagement\CM.BLTest\obj\Debug\CM.BLTest.csprojResolveAssemblyReference.cache
+C:\Users\hghabel\Documents\NextGen Files\My Tasks\OOPCodingPractice\OOPCode\CustomerManagement\CM.BLTest\obj\Debug\CM.BLTest.csproj.CoreCompileInputs.cache
+C:\Users\hghabel\Documents\NextGen Files\My Tasks\OOPCodingPractice\OOPCode\CustomerManagement\CM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\hghabel\Documents\NextGen Files\My Tasks\OOPCodingPractice\OOPCode\CustomerManagement\CM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\hghabel\Documents\NextGen Files\My Tasks\OOPCodingPractice\OOPCode\CustomerManagement\CM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\hghabel\Documents\NextGen Files\My Tasks\OOPCodingPractice\OOPCode\CustomerManagement\CM.BLTest\bin\Debug\CM.BLTest.dll
+C:\Users\hghabel\Documents\NextGen Files\My Tasks\OOPCodingPractice\OOPCode\CustomerManagement\CM.BLTest\bin\Debug\CM.BLTest.pdb
+C:\Users\hghabel\Documents\NextGen Files\My Tasks\OOPCodingPractice\OOPCode\CustomerManagement\CM.BLTest\bin\Debug\CM.BL.dll
+C:\Users\hghabel\Documents\NextGen Files\My Tasks\OOPCodingPractice\OOPCode\CustomerManagement\CM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\hghabel\Documents\NextGen Files\My Tasks\OOPCodingPractice\OOPCode\CustomerManagement\CM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\hghabel\Documents\NextGen Files\My Tasks\OOPCodingPractice\OOPCode\CustomerManagement\CM.BLTest\bin\Debug\CM.BL.pdb
+C:\Users\hghabel\Documents\NextGen Files\My Tasks\OOPCodingPractice\OOPCode\CustomerManagement\CM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\hghabel\Documents\NextGen Files\My Tasks\OOPCodingPractice\OOPCode\CustomerManagement\CM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\hghabel\Documents\NextGen Files\My Tasks\OOPCodingPractice\OOPCode\CustomerManagement\CM.BLTest\obj\Debug\CM.BLTest.dll
+C:\Users\hghabel\Documents\NextGen Files\My Tasks\OOPCodingPractice\OOPCode\CustomerManagement\CM.BLTest\obj\Debug\CM.BLTest.pdb

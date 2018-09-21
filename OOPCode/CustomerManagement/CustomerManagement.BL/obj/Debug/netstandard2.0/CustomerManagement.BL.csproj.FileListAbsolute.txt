@@ -1,0 +1,9 @@
+C:\Users\hghabel\Documents\NextGen Files\My Tasks\OOPCodingPractice\OOPCode\CustomerManagement\CustomerManagement.BL\bin\Debug\netstandard2.0\CustomerManagement.BL.deps.json
+C:\Users\hghabel\Documents\NextGen Files\My Tasks\OOPCodingPractice\OOPCode\CustomerManagement\CustomerManagement.BL\bin\Debug\netstandard2.0\CustomerManagement.BL.dll
+C:\Users\hghabel\Documents\NextGen Files\My Tasks\OOPCodingPractice\OOPCode\CustomerManagement\CustomerManagement.BL\bin\Debug\netstandard2.0\CustomerManagement.BL.pdb
+C:\Users\hghabel\Documents\NextGen Files\My Tasks\OOPCodingPractice\OOPCode\CustomerManagement\CustomerManagement.BL\obj\Debug\netstandard2.0\CustomerManagement.BL.csprojResolveAssemblyReference.cache
+C:\Users\hghabel\Documents\NextGen Files\My Tasks\OOPCodingPractice\OOPCode\CustomerManagement\CustomerManagement.BL\obj\Debug\netstandard2.0\CustomerManagement.BL.csproj.CoreCompileInputs.cache
+C:\Users\hghabel\Documents\NextGen Files\My Tasks\OOPCodingPractice\OOPCode\CustomerManagement\CustomerManagement.BL\obj\Debug\netstandard2.0\CustomerManagement.BL.AssemblyInfoInputs.cache
+C:\Users\hghabel\Documents\NextGen Files\My Tasks\OOPCodingPractice\OOPCode\CustomerManagement\CustomerManagement.BL\obj\Debug\netstandard2.0\CustomerManagement.BL.AssemblyInfo.cs
+C:\Users\hghabel\Documents\NextGen Files\My Tasks\OOPCodingPractice\OOPCode\CustomerManagement\CustomerManagement.BL\obj\Debug\netstandard2.0\CustomerManagement.BL.dll
+C:\Users\hghabel\Documents\NextGen Files\My Tasks\OOPCodingPractice\OOPCode\CustomerManagement\CustomerManagement.BL\obj\Debug\netstandard2.0\CustomerManagement.BL.pdb

@@ -1,0 +1,6 @@
+C:\Users\hghabel\Documents\NextGen Files\My Tasks\OOPCodingPractice\OOPCode\CustomerManagement\CM.BL\bin\Debug\CM.BL.dll
+C:\Users\hghabel\Documents\NextGen Files\My Tasks\OOPCodingPractice\OOPCode\CustomerManagement\CM.BL\bin\Debug\CM.BL.pdb
+C:\Users\hghabel\Documents\NextGen Files\My Tasks\OOPCodingPractice\OOPCode\CustomerManagement\CM.BL\obj\Debug\CM.BL.csproj.CoreCompileInputs.cache
+C:\Users\hghabel\Documents\NextGen Files\My Tasks\OOPCodingPractice\OOPCode\CustomerManagement\CM.BL\obj\Debug\CM.BL.dll
+C:\Users\hghabel\Documents\NextGen Files\My Tasks\OOPCodingPractice\OOPCode\CustomerManagement\CM.BL\obj\Debug\CM.BL.pdb
+C:\Users\hghabel\Documents\NextGen Files\My Tasks\OOPCodingPractice\OOPCode\CustomerManagement\CM.BL\obj\Debug\CM.BL.csprojResolveAssemblyReference.cache
