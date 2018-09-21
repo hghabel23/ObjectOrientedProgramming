@@ -43,5 +43,6 @@ public Customer
 public Customer(int customerID)
 {
 	this.CustomreId = customerID;
-	AddressList = new List<Address>();  // create an instance of the List<T> to avoid null exception
+	AddressList = new List<Address>();  // create an instance of the List<T> to avoid null exception.
 }
+
